@@ -5,9 +5,10 @@
 
 
 def primes(number_of_primes):
-    count = 0
+    n = 0
     i = 0
     primes = []
+
     while n < number_of_primes:
         i += 1
         count = 1
